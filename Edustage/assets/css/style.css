@@ -1,0 +1,7 @@
+.section-hero {
+    height: 100vh;
+    background-image: url("../img/banner/home-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
